@@ -10,3 +10,7 @@ variable "region" {
 variable "team_name" {
   type = string
 }
+
+variable "new" {
+  
+}
