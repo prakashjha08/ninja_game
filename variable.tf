@@ -12,5 +12,5 @@ variable "team_name" {
 }
 
 variable "new" {
-  
+  default = "new"
 }
